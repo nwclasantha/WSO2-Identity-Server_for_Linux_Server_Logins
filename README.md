@@ -1,5 +1,7 @@
 ## Integrating WSO2 Identity Server for Linux Server Logins
 
+![image](https://github.com/user-attachments/assets/cdb4bb2f-a17f-431c-a147-29c24e2cde70)
+
 ### Introduction
 
 With multiple Linux servers in enterprise environments, managing user credentials and access control can be challenging. Using WSO2 Identity Server (WSO2 IS) for Single Sign-On (SSO) enables centralized identity management and simplifies the authentication process. WSO2 IS acts as an Identity Provider (IdP), allowing users to log in to Linux servers with a single set of credentials. This setup enhances security by enforcing unified access controls and reduces the administrative load on IT teams.
