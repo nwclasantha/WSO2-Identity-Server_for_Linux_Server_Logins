@@ -23,6 +23,8 @@ This guide aims to:
 
 ### Step-by-Step Guide
 
+![35DWyHMSw24Bp2zr1x1bp2](https://github.com/user-attachments/assets/2e23dc2e-0336-4ebb-bb29-8e64c7ee5475)
+
 #### Step 1: Install Required Packages on Each Linux Server
 
 1. **Install SSSD and related packages**:
